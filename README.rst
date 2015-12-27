@@ -1,10 +1,6 @@
-.. image:: https://travis-ci.org/bibi21000/janitoo_db_full.svg?branch=master
-    :target: https://travis-ci.org/bibi21000/janitoo_db_full
+.. image:: https://travis-ci.org/bibi21000/janitoo_postresql_client.svg?branch=master
+    :target: https://travis-ci.org/bibi21000/janitoo_postgresql_client
     :alt: Travis status
-
-.. image:: https://coveralls.io/repos/bibi21000/janitoo_db_full/badge.svg?branch=master&service=github
-    :target: https://coveralls.io/github/bibi21000/janitoo_db_full?branch=master
-    :alt: Coveralls results
 
 ===============
 The README file
