@@ -91,6 +91,7 @@ setup(
                      'psycopg2',
                     ],
     dependency_links = [
-      'https://github.com/bibi21000/janitoo_db/archive/master.zip#egg=janitoo_db-%s'%janitoo_version,
+      'https://github.com/bibi21000/janitoo/archive/master.zip#egg=janitoo',
+      'https://github.com/bibi21000/janitoo_db/archive/master.zip#egg=janitoo_db',
     ],
 )
