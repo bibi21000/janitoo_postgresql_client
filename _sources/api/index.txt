@@ -1,0 +1,10 @@
+janitoo_postgresql_client package
+=================================
+
+Module contents
+---------------
+
+.. automodule:: janitoo_postgresql_client
+    :members:
+    :undoc-members:
+    :show-inheritance:

@@ -1,0 +1,5 @@
+janitoo_postgresql_client package
+=================================
+
+Show janitoo's extensions.
+
